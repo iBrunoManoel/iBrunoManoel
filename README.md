@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/bruno-manoel-2333001b8/ brunomanoel2019.2019@gmail.com
 - ⚡ Fun fact: ...
 -->
+[![Gmail Badge](https://img.shields.io/badge/-thierrymatheusreal@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thierrymatheusreal@gmail.com "Connect via Email")
