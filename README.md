@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Gmail Badge](https://img.shields.io/badge/-brunomanoel2019.2019@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brunomanoel2019.2019@gmail.com "Connect via Email")
- ![Profile Views](https://komarev.com/ghpvc/?username=ThierryMatheus&color=7802aa)
+ ![Profile Views](https://komarev.com/ghpvc/?username=iBrunoManoel&color=7802aa)
