@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Gmail Badge](https://img.shields.io/badge/-brunomanoel2019.2019@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brunomanoel2019.2019@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/bruno-manoel-2333001b8/style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-manoel-2333001b8/ "Connect on LinkedIn")
  ![Profile Views](https://komarev.com/ghpvc/?username=iBrunoManoel&color=7802aa)
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iBrunoManoel&count_private=true&hide=stars&show_icons=true&theme=buefy)](https://github.com/iBrunoManoel)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iBrunoManoel&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
